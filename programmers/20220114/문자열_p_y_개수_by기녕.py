@@ -4,3 +4,6 @@ def solution(s):
         return False
     
     return True
+    
+print(solution('pPoooyY'))
+print(solution('Pyy'))
