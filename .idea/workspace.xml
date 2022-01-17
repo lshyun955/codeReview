@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78dc971f-f0c7-4df6-8d74-5e0772c1fadf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.history/homework/220114_homework_quiz_20220114164903.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/수박수박수박수박수박수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.history/homework/220114_homework_quiz_20220114164926.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.history/programmers/20220114/문자열_p_y_개수_by수현_20220114231350.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.history/programmers/20220114/문자열_p_y_개수_by수현_20220114231418.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.history/programmers/20220115/K번째수_by수현_20220115162616.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.history/programmers/20220115/K번째수_by수현_20220115162706.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.history/programmers/20220115/K번째수_by수현_20220115162838.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.history/programmers/20220115/자연수 뒤집어 배열로 만들기_by수현_20220115162648.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.history/programmers/20220115/자연수 뒤집어 배열로 만들기_by수현_20220115162704.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs_programming/readme.md.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/220114_homework_quiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/20220114/문자열_p_y_개수_by구름.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/20220114/문자열_p_y_개수_by구름.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/20220115/K번째수_by구름.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmers/20220115/자연수 뒤집어 배열로 만들기_by구름.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23plSG6skuwIhcWhRMsR8WrpSMp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78dc971f-f0c7-4df6-8d74-5e0772c1fadf" name="Changes" comment="" />
+      <created>1642438906400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642438906400</updated>
+      <workItem from="1642438907904" duration="125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
