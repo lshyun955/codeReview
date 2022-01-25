@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78dc971f-f0c7-4df6-8d74-5e0772c1fadf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/직사각형 별찍기_20220125_영욱.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../항해99/2~5주차 알고리즘" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../항해99" />
     <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
   </component>
   <component name="RunManager">
@@ -76,6 +77,8 @@
       <workItem from="1642465835734" duration="441000" />
       <workItem from="1642937526637" duration="50000" />
       <workItem from="1642939664238" duration="31000" />
+      <workItem from="1643102128297" duration="183000" />
+      <workItem from="1643116616360" duration="623000" />
     </task>
     <servers />
   </component>
