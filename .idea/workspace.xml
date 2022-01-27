@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78dc971f-f0c7-4df6-8d74-5e0772c1fadf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/2016년_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/같은 숫자는 싫어_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/나누어 떨어지는 숫자 배열_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/나머지가 1이 되는 수 찾기_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/내적_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/두 정수 사이의 합_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/문자열 내림차순으로 배치하기_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/문자열 다루기 기본_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/문자열을 정수로 바꾸기_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/부족한 금액 계산하기_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/서울에서 김서방 찾기_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/시저 암호_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/약수의 합_영욱.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers_LV1/영욱/정수 제곱근 판별_영욱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers_LV2/영욱/타겟 넘버_영욱.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,28 +50,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\leeyu\OneDrive\바탕 화면\programmers\codeReview\programmers_LV1\영욱\두 정수 사이의 합_영욱.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="이상한 문자 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="codeReview" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers_LV1/영욱" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers_LV1/영욱/이상한 문자 만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,6 +124,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="이상한 문자 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeReview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers_LV1/영욱" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers_LV1/영욱/이상한 문자 만들기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.문자열 내림차순으로 배치하기_영욱" />
@@ -185,7 +172,8 @@
       <workItem from="1643102128297" duration="183000" />
       <workItem from="1643116616360" duration="623000" />
       <workItem from="1643158895116" duration="61000" />
-      <workItem from="1643187459479" duration="11820000" />
+      <workItem from="1643187459479" duration="12430000" />
+      <workItem from="1643250031285" duration="1848000" />
     </task>
     <servers />
   </component>
